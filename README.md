@@ -1,2 +1,1 @@
-# PROYECTO16
-EXPLOTAR GLOBOS 3
+# explotar-globos-3-plantilla
